@@ -10,6 +10,12 @@ CreativeOps automates the process of turning a campaign idea into an actionable 
 
 Users provide a campaign brief through a simple web interface. The AI agents then collaborate to generate a creative commercial script, break it down into production shots, and organize the required production tasks.
 
+## 🎥 Project Demo
+
+Watch the video demonstration of the CreativeOps Multi-Agent System:
+
+[▶ Watch the Demo](demo/CreativeOPS%20demo.mp4)
+
 ## Screenshots
 
 ### Campaign Input
