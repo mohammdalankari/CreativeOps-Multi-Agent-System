@@ -12,7 +12,7 @@ Users provide a campaign brief through a simple web interface. The AI agents the
 
 ##  Project Demo
 
-Click the thumbnail below to watch the CreativeOps Multi-Agent System demonstration:
+Click the thumbnail below to watch the CreativeOps Multi-Agent System demonstration on Youtube:
 
 [![CreativeOps Demo](https://img.youtube.com/vi/vuwTpalQD6I/hqdefault.jpg)](https://youtu.be/vuwTpalQD6I)
 
